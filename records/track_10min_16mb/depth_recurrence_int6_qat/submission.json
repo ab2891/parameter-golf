@@ -1,0 +1,10 @@
+{
+    "name": "Agustin",
+    "github_id": "TBD",
+    "val_bpb": "TBD",
+    "date": "2026-03-XX",
+    "summary": "Depth recurrence (3 blocks x 4 loops = 12 effective layers) + Int6 QAT + 2048 dim + Muon WD + sliding window eval",
+    "compressed_size_bytes": "TBD",
+    "training_time_seconds": "TBD",
+    "hardware": "8xH100 SXM"
+}
